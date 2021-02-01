@@ -16,16 +16,12 @@ This has been split up into the following areas:
 
 ## [Part 03](./part-03)
 
-*Booleans* are simple to use, sound scary, but a lot of what we do will rely on them.
+*Conditionals* are all about breaking the logical parts of our script into chunks.
 
 ## [Part 04](./part-04)
 
-*Conditionals* are all about breaking the logical parts of our script into chunks.
-
-## [Part 05](./part-05)
-
 *Functions* are an extention of the logic you write in conditionals, but typically these are turned into functions when you want to use it more than once.
 
-## [Part 06](./part-06)
+## [Part 05](./part-05)
 
 *Objects* also known as *Classes* are a more structured way of storing data, and having behaviour at the same time.
