@@ -55,7 +55,8 @@
 
 
 
-// Classes have different levels of access on methods and attributes. Meaning that you can access them inside and outside of the class:
+// Classes have different levels of access on methods and attributes.
+// Meaning that you can access them inside and outside of the class:
 // class Car
 // {
 //     protected string $make;
