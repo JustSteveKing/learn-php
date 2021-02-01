@@ -5,6 +5,11 @@ $empty = [];
 
 // var_dump($empty);
 
+
+
+
+
+
 // Arrays in PHP are very flexible, and can store various different things
 $lotteryNumbers = [
     04, 28, 31, 36, 51, 55, 42
@@ -17,12 +22,23 @@ $names = [
     'Faye',
 ];
 
+
+
+
+
+
+
 // With arrays we can perform actions on each item.
 
 // lets take our names array, and for each one of them -> do something with the current name we are on.
 foreach ($names as $name) {
     // echo $name;
 }
+
+
+
+
+
 
 // Arrays can get a little more complex, by using what is called an associative array -> meaning that the values you store have keys to reference them by
 
@@ -39,6 +55,13 @@ $person = [
 ];
 
 // echo $person['age'];
+
+
+
+
+
+
+
 
 // You can add a new value easily
 $person['name'] = 'Steve';

@@ -8,7 +8,17 @@ $light = [
     // 'power' => true,
 ];
 
+
+
+
+
+
+
 // Pretend we are the electric company, we want to charge our users when they have their lights turned on.
+$light = [
+    'power' => false,
+    // 'power' => true,
+];
 // $bill = 0;
 // if ($light['power']) {
 //     $bill += 100;
@@ -16,7 +26,17 @@ $light = [
 
 // echo $bill;
 
+
+
+
+
+
+
 // Most electric companies in the UK charge a standing charge. Let's implement this logic in our script
+$light = [
+    'power' => false,
+    // 'power' => true,
+];
 $bill = 0;
 if ($light['power']) {
     $bill += 100;
@@ -25,6 +45,13 @@ if ($light['power']) {
 }
 
 // echo $bill;
+
+
+
+
+
+
+
 
 // Conditionals provide a great way to let our script know what to do next.
 $modes = [
